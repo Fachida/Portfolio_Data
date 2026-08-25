@@ -79,6 +79,7 @@ function App() {
               </h2>
 
               <p className="hero-description">
+                 À la recherche d'un stage de 4 à 6 mois à partir de janvier 2027.
                 Je transforme les données en analyses,
                 visualisations et solutions décisionnelles.
               </p>
