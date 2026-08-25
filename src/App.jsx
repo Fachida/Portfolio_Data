@@ -682,30 +682,7 @@ function App() {
 
             </div>
 
-            <div className="education-item">
-
-              <div>
-
-                <span className="education-year">
-                  2020
-                </span>
-
-                <h3>
-                  Baccalauréat Mathématiques
-                </h3>
-
-                <p>
-                  Gabon
-                </p>
-
-              </div>
-
-              <span className="education-status">
-                Bac
-              </span>
-
-            </div>
-
+            
           </div>
 
         </section>
