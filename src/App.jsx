@@ -705,8 +705,9 @@ function App() {
           </h2>
 
           <p className="contact-description">
-            À la recherche d'une opportunité en
-            Data Analyst / Data Science.
+            À la recherche d'un stage de 4 à 6 mois à partir de janvier 2027
+            en Data Analyst, Data Science ou statistiques.
+            
           </p>
 
           <div className="contact-info">
