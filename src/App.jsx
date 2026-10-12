@@ -722,7 +722,7 @@ function App() {
 
             <div className="contact-info-item">
               <span className="contact-info-label">Téléphone</span>
-              <span className="contact-info-value">07 51 19 16 45</span>
+              <span className="contact-info-value">07 51 19 16 46</span>
             </div>
 
           </div>
